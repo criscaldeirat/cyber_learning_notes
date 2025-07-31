@@ -32,4 +32,17 @@ Network Connections enable the communication between devices, but it's relevant 
 - Offers mobility and enables access to the internet from almost anywhere
 - It depends a lot on the network coverage
 
+### Near Field Communication (NFC)
+
+- Is a short-range wireless technology
+- Allows devices to communicate and exchange data over very short distances, typically up to 4 inches (10 cm)
+- Used for applications such as contactless payments, electronic ticketing, and data transfer between devices 
+- It operates at a frequency of 13.56 MHz and supports various modes, including peer-to-peer communication, card emulation, and reader/writer modes
+- NFC enables quick and secure interactions with minimal setup, making it convenient for mobile payments, access control, and sharing information.
+
+### Infrared (IR)
+
+- Is a type of wireless communication technology
+- Uses light waves in the electromagnetic spectrum to transmit data between devices 
+- Used in short-range communication, commonly found in devices like remote controls, wireless keyboards and mice, and computer-to-printer communication
 
